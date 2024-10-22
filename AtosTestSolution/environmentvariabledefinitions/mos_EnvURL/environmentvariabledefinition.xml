@@ -1,0 +1,14 @@
+<environmentvariabledefinition schemaname="mos_EnvURL">
+  <defaultvalue>https://orgb334a607.crm.dynamics.com/</defaultvalue>
+  <description default="Displaying on Canvas app">
+    <label description="Displaying on Canvas app" languagecode="1033" />
+  </description>
+  <displayname default="EnvURL">
+    <label description="EnvURL" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <secretstore>0</secretstore>
+  <type>100000000</type>
+</environmentvariabledefinition>
